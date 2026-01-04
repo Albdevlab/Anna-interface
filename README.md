@@ -63,12 +63,6 @@ The images contained in the `assets/` directory are provided
 for illustrative and conceptual purposes only.
 They do not represent final designs or binding deliverables.
 
-## Visual References (Non-Binding)
-
-The images contained in the `assets/` directory are provided
-for illustrative and conceptual purposes only.
-They do not represent final designs or binding deliverables.
-
 ![Pulse States](assets/pulse/pulse-states.PNG)
 
 ![ANNA Mobile Interface](assets/ui/mobile/anna-mobile-home.PNG)
