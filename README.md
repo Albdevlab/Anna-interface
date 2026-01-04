@@ -57,6 +57,23 @@ Phase 0 introduces:
 - Performance optimization
 - Final documentation and handover
 
+## Visual References (Non-Binding)
+
+The images contained in the `assets/` directory are provided
+for illustrative and conceptual purposes only.
+They do not represent final designs or binding deliverables.
+
+## Visual References (Non-Binding)
+
+The images contained in the `assets/` directory are provided
+for illustrative and conceptual purposes only.
+They do not represent final designs or binding deliverables.
+
+![Pulse States](assets/pulse/pulse-states.PNG)
+
+![ANNA Mobile Interface](assets/ui/mobile/anna-mobile-home.PNG)
+
+![ANNA Web Dashboard](assets/ui/web/anna-web-dashboard.PNG)
 ---
 
 ## Repository Structure
