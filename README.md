@@ -70,7 +70,6 @@ They do not represent final designs or binding deliverables.
 ![ANNA Web Dashboard](assets/ui/web/anna-web-dashboard.PNG)
 ---
 
-
 ## Repository Structure
 
 - [README.md](README.md)
@@ -78,23 +77,14 @@ They do not represent final designs or binding deliverables.
 - [ARCHITECTURE.md](ARCHITECTURE.md)
 - [GOVERNANCE.md](GOVERNANCE.md)
 
-### Phases
+## Phases
 
-- **Phase 0 – Proof of Value**
-  - [Overview](phases/phase-0/overview.md)
-  - [Scope](phases/phase-0/scope.md)
-  - [Acceptance Criteria](phases/phase-0/acceptance-criteria.md)
-  - [Demo & Verification](phases/phase-0/demo.md)
+### Phase 0 – Proof of Value
 
-```text
-anna-interface/
-├── README.md
-├── ROADMAP.md
-├── ARCHITECTURE.md
-├── GOVERNANCE.md
-└── phases/
-    └── phase-0/
-        ├── overview.md
-        ├── scope.md
-        ├── acceptance-criteria.md
-        └── demo.md
+- [Overview](phases/phase-0/overview.md)
+- [Scope](phases/phase-0/scope.md)
+- [Acceptance Criteria](phases/phase-0/acceptance-criteria.md)
+- [Demo & Verification](phases/phase-0/demo.md)
+
+> Phase 0 is documentation-only.
+> It does not include protocol execution, transaction signing, or economic mechanisms.
