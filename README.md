@@ -43,6 +43,16 @@ Phase 0 introduces:
 - No economic mechanisms
 - No AGI logic or execution
 
+### Funding
+
+Phase 0 does not request any funding.
+
+This phase is already completed and consists of documentation,
+architecture clarification, and risk reduction work.
+
+Any discussion about funding would only apply to future implementation
+phases, after Phase 0 has been reviewed and validated.
+
 ### Phase 1 — Web MVP & Trust Layer (Planned)
 
 - Backend services
