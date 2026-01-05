@@ -32,3 +32,7 @@ At the end of Phase 0:
 - ANNA is publicly accessible
 - Governance can verify real progress
 - The project is ready for evaluation and potential continuation
+
+> Note: Phase 0 does not request or require any funding.
+> It is delivered as completed documentation and a public demonstration
+> for review and validation by governance.
