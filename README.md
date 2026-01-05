@@ -70,7 +70,21 @@ They do not represent final designs or binding deliverables.
 ![ANNA Web Dashboard](assets/ui/web/anna-web-dashboard.PNG)
 ---
 
+
 ## Repository Structure
+
+- [README.md](README.md)
+- [ROADMAP.md](ROADMAP.md)
+- [ARCHITECTURE.md](ARCHITECTURE.md)
+- [GOVERNANCE.md](GOVERNANCE.md)
+
+### Phases
+
+- **Phase 0 – Proof of Value**
+  - [Overview](phases/phase-0/overview.md)
+  - [Scope](phases/phase-0/scope.md)
+  - [Acceptance Criteria](phases/phase-0/acceptance-criteria.md)
+  - [Demo & Verification](phases/phase-0/demo.md)
 
 ```text
 anna-interface/
