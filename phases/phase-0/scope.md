@@ -11,6 +11,7 @@ Phase 0 includes the following elements:
 
 - Public web-based ANNA interface (desktop)
 - Wallet connection via Qubic RPC (read-only)
+  (No private keys, signing, or transaction capabilities involved.)
 - Display of basic wallet information
 - Pulse-based system state visualization
 - Introductory Academy / learning content
